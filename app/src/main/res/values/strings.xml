@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Another Term Shell Plugin - Android&#xA0;10 Essentials</string>
+    <string name="template_desc_plugin"><![CDATA[
+        <h1>Essential shell tools for Android&#xA0;10 or higher</h1>
+        <p>
+        It was created to mitigate
+<a href=\"https://green-green-avk.github.io/AnotherTerm-docs/local-shell-w-x.html#main_content\">w^x policy</a>
+        but also can be used with any API >= 21.
+        </p>
+        <p>It currently contains <b>minitar</b> (for extracting .tar.gz/bz2/xz)
+        and <b>PRoot</b>.</p>
+        <p>Call without arguments for usage details.</p>
+        <p>Typical usage example:<br/>
+        <code><clipboard>$(\"$TERMSH\" plugin ${applicationId} minitar) &lt; </clipboard>some.tar.xz</code>
+        </p>
+    ]]></string>
+</resources>
