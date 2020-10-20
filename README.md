@@ -14,3 +14,9 @@ Typical usage example:
 ```sh
 $("$TERMSH" plugin green_green_avk.anothertermshellplugin_android10essentials minitar) < some.tar.xz
 ```
+
+## Included binaries source
+
+Build scripts:
+* <https://github.com/green-green-avk/build-libarchive-minitar-android>
+* <https://github.com/green-green-avk/build-proot-android>
