@@ -19,4 +19,4 @@ $("$TERMSH" plugin green_green_avk.anothertermshellplugin_android10essentials mi
 
 Build scripts:
 * <https://github.com/green-green-avk/build-libarchive-minitar-android>
-* <https://github.com/green-green-avk/build-proot-android>
+* <https://github.com/green-green-avk/build-proot-android> ([make-proot-for-apk.sh](https://github.com/green-green-avk/build-proot-android/blob/master/make-proot-for-apk.sh))
