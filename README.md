@@ -8,7 +8,7 @@ Essential shell tools for Android&nbsp;10 or higher.
 >and which violates the Device and Network Abuse policy,
 >section 4.8 and 4.9 of the Developer Distribution Agreement (DDA)
 
-*...without any comments on what exactly wrong. Weird.
+*...without any details on what exactly wrong.
 Basically, all the JIT compilers for Android are endangered from now on.*
 
 ***So, use on your own risk and feel free to review and recompile it by yourself to be sure.***
@@ -26,6 +26,8 @@ Typical usage example:
 ```sh
 $("$TERMSH" plugin green_green_avk.anothertermshellplugin_android10essentials minitar) < some.tar.xz
 ```
+
+[Releases](https://github.com/green-green-avk/AnotherTermShellPlugin-Android10Essentials/releases)
 
 ## Included binaries source code
 
