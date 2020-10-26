@@ -1,17 +1,24 @@
 <resources>
     <string name="app_name">Another Term Shell Plugin - Android&#xA0;10 Essentials</string>
     <string name="template_desc_plugin"><![CDATA[
-        <h1>Essential shell tools for Android&#xA0;10 or higher</h1>
         <p>
-        It was created to mitigate
-<a href=\"https://green-green-avk.github.io/AnotherTerm-docs/local-shell-w-x.html#main_content\">w^x policy</a>
-        but also can be used with any API >= 21.
+        This plugin for
+        <a href=\"https://github.com/green-green-avk/AnotherTerm\"><b>Another Term</b></a>
+        has been created in order
+        to still be able to run Linux applications in the <b>PRoot</b> environment.
+        It also can be used with any API &gt;= 21 for convenience.
+        </p>
+        <p>
+        <a href=\"https://green-green-avk.github.io/AnotherTerm-docs/local-shell-w-x.html#main_content\">Details</a>
         </p>
         <p>It currently contains <b>minitar</b> (for extracting .tar.gz/bz2/xz)
         and <b>PRoot</b>.</p>
         <p>Call without arguments for usage details.</p>
         <p>Typical usage example:<br/>
         <code><clipboard>$(\"$TERMSH\" plugin ${applicationId} minitar) &lt; </clipboard>some.tar.xz</code>
+        </p>
+        <p>
+        <a href=\"https://github.com/green-green-avk/AnotherTermShellPlugin-Android10Essentials\">Source code</a>
         </p>
     ]]></string>
 </resources>
