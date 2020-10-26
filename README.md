@@ -11,10 +11,11 @@ Basically, all the JIT compilers for Android can be suspended by Google from now
 
 ***So, use on your own risk and feel free to review and recompile it by yourself to be sure.***
 
-It was created to mitigate
-[the Android&nbsp;10 w^x policy](https://green-green-avk.github.io/AnotherTerm-docs/local-shell-w-x.html#main_content)
-to still be able to run Linux applications in the **PRoot** environment
-but also can be used with any API >= 21 for convenience.
+It was created in order
+to still be able to run Linux applications in the **PRoot** environment.
+It also can be used with any API >= 21 for convenience.
+
+[Details](https://green-green-avk.github.io/AnotherTerm-docs/local-shell-w-x.html#main_content)
 
 It currently contains **minitar** (for extracting `.tar.gz`/`bz2`/`xz`) and **PRoot**.
 
