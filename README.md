@@ -11,7 +11,7 @@ Basically, all the JIT compilers for Android can be suspended by Google from now
 
 ***So, use on your own risk and feel free to review and recompile it by yourself to be sure.***
 
-It was created in order
+This plugin for [**Another Term**](https://github.com/green-green-avk/AnotherTerm) has been created in order
 to still be able to run Linux applications in the **PRoot** environment.
 It also can be used with any API >= 21 for convenience.
 
