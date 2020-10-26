@@ -9,7 +9,7 @@ Essential shell tools for Android&nbsp;10 or higher.
 >section 4.8 and 4.9 of the Developer Distribution Agreement (DDA)
 
 *...without any details on what exactly wrong.
-Basically, all the JIT compilers for Android are endangered from now on.*
+Basically, all the JIT compilers for Android can be suspended by Google from now on.*
 
 ***So, use on your own risk and feel free to review and recompile it by yourself to be sure.***
 
