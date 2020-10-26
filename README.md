@@ -1,7 +1,5 @@
 # Another Term Shell Plugin - Android&nbsp;10 Essentials
 
-Essential shell tools for Android&nbsp;10 or higher.
-
 ***Warning:** this plugin has been SUSPENDED at Google Play as it*
 >**currently facilitates or provides instructions on how to hack services,
 >software or hardware, or circumvent security protections**
