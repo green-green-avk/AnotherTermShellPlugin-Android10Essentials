@@ -12,8 +12,11 @@ Basically, all the JIT compilers for Android can be suspended by Google from now
 ***So, use on your own risk and feel free to review and recompile it by yourself to be sure.***
 
 This plugin for [**Another Term**](https://github.com/green-green-avk/AnotherTerm) has been created in order
-to still be able to run Linux applications in the **PRoot** environment.
-It also can be used with any API >= 21 for convenience.
+to still be able to run Linux applications in the **PRoot** environment on Android&nbsp;10 (API&nbsp;29) and higher.
+It can also be used with any API&nbsp;>=&nbsp;21 for convenience.
+
+The implemented approach is not diffferent from [**UserLAnd**](https://github.com/CypherpunkArmory/UserLAnd)
+but separating it into a plugin seems more convenient.
 
 [Details](https://green-green-avk.github.io/AnotherTerm-docs/local-shell-w-x.html#main_content)
 
