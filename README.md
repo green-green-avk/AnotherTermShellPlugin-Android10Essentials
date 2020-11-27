@@ -15,7 +15,7 @@ This plugin for [**Another Term**](https://github.com/green-green-avk/AnotherTer
 to still be able to run Linux applications in the **PRoot** environment on Android&nbsp;10 (API&nbsp;29) and higher.
 It can also be used with any API&nbsp;>=&nbsp;21 for convenience.
 
-The implemented approach is not diffferent from [**UserLAnd**](https://github.com/CypherpunkArmory/UserLAnd)
+The implemented approach is not different from [**UserLAnd**](https://github.com/CypherpunkArmory/UserLAnd)
 but separating it into a plugin seems more convenient.
 
 [Details](https://green-green-avk.github.io/AnotherTerm-docs/local-shell-w-x.html#main_content)
