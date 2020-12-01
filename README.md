@@ -11,6 +11,8 @@ Basically, all the JIT compilers for Android can be suspended by Google from now
 
 ***So, use on your own risk and feel free to review and recompile it by yourself to be sure.***
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/green-green-avk/AnotherTermShellPlugin-Android10Essentials)](https://github.com/green-green-avk/AnotherTermShellPlugin-Android10Essentials/releases)
+
 This plugin for [**Another Term**](https://github.com/green-green-avk/AnotherTerm) has been created in order
 to still be able to run Linux applications in the **PRoot** environment on Android&nbsp;10 (API&nbsp;29) and higher.
 It can also be used with any API&nbsp;>=&nbsp;21 for convenience.
