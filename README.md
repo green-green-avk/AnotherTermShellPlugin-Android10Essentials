@@ -1,6 +1,6 @@
 # Another Term Shell Plugin - Android&nbsp;10 Essentials
 
-***Warning:** this plugin has been SUSPENDED at Google Play as it*
+***Warning:** this plugin has been SUSPENDED on Google Play as it*
 >**currently facilitates or provides instructions on how to hack services,
 >software or hardware, or circumvent security protections**
 >and which violates the Device and Network Abuse policy,
