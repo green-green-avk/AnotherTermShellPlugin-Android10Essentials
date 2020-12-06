@@ -1,5 +1,7 @@
 # Another Term Shell Plugin - Android&nbsp;10 Essentials
 
+<img align="left" src="https://raw.githubusercontent.com/green-green-avk/assets/main/suspendism.svg" />
+
 ***Warning:** this plugin has been SUSPENDED on Google Play as it*
 >**currently facilitates or provides instructions on how to hack services,
 >software or hardware, or circumvent security protections**
