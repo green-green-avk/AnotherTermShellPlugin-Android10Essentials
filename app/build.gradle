@@ -10,8 +10,8 @@ android {
         applicationId "green_green_avk.anothertermshellplugin_android10essentials"
         minSdkVersion 21
         targetSdkVersion 29
-        versionCode 2
-        versionName "1.1"
+        versionCode 3
+        versionName "1.2"
     }
 
     applicationVariants.all { variant ->
@@ -33,5 +33,5 @@ android {
 
 dependencies {
     implementation 'androidx.annotation:annotation:1.1.0'
-    implementation 'com.github.green-green-avk:anothertermshellpluginutils:1.10'
+    implementation 'com.github.green-green-avk:anothertermshellpluginutils:1.11'
 }
