@@ -10,8 +10,8 @@ android {
         applicationId "green_green_avk.anothertermshellplugin_android10essentials"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 6
-        versionName "1.6"
+        versionCode 7
+        versionName "1.7"
     }
 
     applicationVariants.all { variant ->
