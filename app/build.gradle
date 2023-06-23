@@ -1,26 +1,37 @@
 plugins {
     id 'com.android.application'
-    id 'placeholder-resolver'
+    id 'com.likethesalad.stem'
 }
 
 android {
-    compileSdkVersion 30
+    namespace 'green_green_avk.anothertermshellplugin_android10essentials'
+
+    compileSdk 31
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 
     defaultConfig {
-        applicationId "green_green_avk.anothertermshellplugin_android10essentials"
-        minSdkVersion 21
-        targetSdkVersion 30
-        versionCode 8
-        versionName "1.8"
+        applicationId namespace
+        minSdk 21
+        targetSdk 31
+        versionCode 9
+        versionName '1.9'
     }
 
     applicationVariants.all { variant ->
-        variant.resValue "string", "applicationId", variant.applicationId
+        variant.resValue 'string', 'applicationId', variant.applicationId
     }
 
     buildTypes {
         debug {
-            applicationIdSuffix ".debug"
+            applicationIdSuffix '.debug'
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'),
+                    'proguard-rules.pro', 'proguard-rules-debug.pro'
         }
         release {
             minifyEnabled true
@@ -32,7 +43,7 @@ android {
 }
 
 dependencies {
-    implementation 'androidx.annotation:annotation:1.3.0'
-    implementation 'com.github.green-green-avk:anothertermshellpluginutils:1.15'
+    implementation 'androidx.annotation:annotation:1.6.0'
+    implementation 'com.github.green-green-avk:anothertermshellpluginutils:1.16'
     implementation 'com.github.green-green-avk:anothertermshellpluginutils-side-plugin:1.0'
 }
